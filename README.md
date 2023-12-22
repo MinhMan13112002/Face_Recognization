@@ -10,4 +10,4 @@ Main is folder that are use in Window, Main_pi is folder that are use in Raspber
 7. train the picture
 8. test
 9. translet to Raspberry Pi langues
-10. 
+   
