@@ -1,2 +1,4 @@
 # Face_Recognization
-train model machine learning from Window to Raspberry Pi 4 
+Main is folder that are use in Window 
+Main_pi is folder that are use in Raspberry Pi 4
+
