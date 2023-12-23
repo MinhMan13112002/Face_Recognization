@@ -10,4 +10,13 @@ Main is folder that are use in Window, Main_pi is folder that are use in Raspber
 7. train the picture
 8. test
 9. translet to Raspberry Pi langues
-   
+# Thực hiện trên board Rasp:
+1. cài đặt hệ điều hành cho Rasp bằng phần mềm Raspberry Pi Image thông qua thẻ nhớ.
+2. Tiến hành ping giữa máy tính với lại Rasp để có đc địa chỉ Ip của Rasp:
+ping pi
+ping -4 pi
+ping đc ip của pi
+3.Sau khi có địa chỉ Ip của Pi thì kết nối với máy tính thông qua Putty để tiến hành config Rasp:
+mở SSH, I2C cho Rasp
+4. kết nối Pi vs máy tính qua VNC bằng địa chỉ IP của Rasp
+5. Tiến hành thực thi các code để tiến hành train AI, dataset sẽ đc lưu vào mục đã định sẳn trong Pi  
