@@ -14,7 +14,7 @@ Main is folder that are use in Window, Main_pi is folder that are use in Raspber
 1. cài đặt hệ điều hành cho Rasp bằng phần mềm Raspberry Pi Image thông qua thẻ nhớ.
 2. Tiến hành ping giữa máy tính với lại Rasp để có đc địa chỉ Ip của Rasp:
 ping pi
-ping -4 pi
+/ ping -4 pi
 ping đc ip của pi
 3.Sau khi có địa chỉ Ip của Pi thì kết nối với máy tính thông qua Putty để tiến hành config Rasp:
 mở SSH, I2C cho Rasp
