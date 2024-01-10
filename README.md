@@ -17,4 +17,5 @@ ping pi, ping -4 pi, ping địa chỉ ip của pi.
 3.Sau khi có địa chỉ Ip của Pi thì kết nối với máy tính thông qua Putty để tiến hành config Rasp:
 mở SSH, I2C cho Rasp
 4. kết nối Pi vs máy tính qua VNC bằng địa chỉ IP của Rasp
-5. Tiến hành thực thi các code để tiến hành train AI, dataset sẽ đc lưu vào mục đã định sẳn trong Pi  
+5. ktr camera: libcamera-hello -t0
+6. Tiến hành thực thi các code để tiến hành train AI, dataset sẽ đc lưu vào mục đã định sẳn trong Pi  
